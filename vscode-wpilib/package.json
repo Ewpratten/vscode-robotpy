@@ -1,12 +1,12 @@
 {
-    "name": "vscode-wpilib",
-    "displayName": "WPILib",
-    "author": "WPILib Suite",
-    "description": "VSCode extension for WPILib Team Use",
+    "name": "vscode-robotpy",
+    "displayName": "RobotPY",
+    "author": "Evan Pratten",
+    "description": "Unofficial Visual Studio Code RobotPY extensions ",
     "version": "0.1.0",
-    "publisher": "wpilibsuite",
+    "publisher": "ewpratten",
     "license": "BSD-3-Clause",
-    "icon": "wpilib-128.png",
+    "icon": "robotpy-128.png",
     "engines": {
         "vscode": "^1.36.0"
     },
